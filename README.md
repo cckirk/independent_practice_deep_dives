@@ -31,7 +31,7 @@ Pull down the new exercises into your repository.
 
 ### Week 1
 
-|       | Deliberate Practice       | Deep Dives (see [readme](DEEPDIVES_README.md) |
+|       | Deliberate Practice       | Deep Dives (see [readme](DEEPDIVES_README.md)) |
 | ----- | ------------------------------------ | -------------------------------------------------------- |
 | Day 1 | [Terminal](w01/terminal)             |                                                          |
 | Day 2 | [Git and GitHub](w01/git_and_github) | [Grades](w01/grades)                                     |
