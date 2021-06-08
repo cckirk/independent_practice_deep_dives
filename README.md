@@ -22,13 +22,12 @@ Commit each working change:
 Submit your exercises by pushing your branch up to GitHub:  
 `git push origin YOUR-GITHUB-USERNAME-GOES-HERE`
 
-### Do this at the˝Ó start of each new week:
+### Do this at the start of each new week:
 
 Pull down the new exercises into your repository.  
 `git pull origin main --no-edit`
 
 # Exercises
-                   |
 
 ### Week 1
 
