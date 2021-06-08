@@ -1,17 +1,19 @@
 # 2021-05-ruby-tuesdays Independent Practice
 
 ## Instructions
-
 ### Do this one time:
+1. Open your terminal and navigate to your Actualize folder.
+2. Clone this repository in your Actualize folder.
+  git clone https://github.com/actualize-chi-2021-03/independent-practice.git
+3. Navigate your terminal to this new folder.
+  cd independent-practice/
+4. Make a branch using your unique GitHub username.
+  git checkout -b YOUR-GITHUB-USERNAME-GOES-HERE
+5. Make a rule to prevent accidental pushes to the main branch
+```echo "if [[ `git rev-parse --abbrev-ref HEAD` =~ ^(master|main)$ ]]; then echo; echo 'Prevented push to main branch.'; echo 'Please push your personal branch instead.'; echo; exit 1; fi; exit 0" >> .git/hooks/pre-push
+chmod +x .git/hooks/pre-push```
 
-Clone this repository in your actualize folder.
-`git clone https://github.com/actualize-onl-2021-05/independent_practice_deep_dives.git`
 
-Change directory into that new repo:
-`cd independent_practice_deep_dives`
-
-Make a branch using your unique GitHub username.
-`git checkout -b YOUR-GITHUB-USERNAME-GOES-HERE`
 
 ### Do this every time you complete an exercise:
 
@@ -26,6 +28,9 @@ Submit your exercises by pushing your branch up to GitHub:
 
 Pull down the new exercises into your repository.  
 `git pull origin main --no-edit`
+
+
+
 
 # Exercises
 
