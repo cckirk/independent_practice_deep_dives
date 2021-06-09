@@ -6,7 +6,7 @@
 2. Clone this repository in your Actualize folder.
   git clone https://github.com/actualize-onl-2021-05/independent_practice_deep_dives.git
 3. Navigate your terminal to this new folder.
-  cd independent-practice/
+  cd independent_practice_deep_dives/
 4. Make a branch using your unique GitHub username.
   git checkout -b YOUR-GITHUB-USERNAME-GOES-HERE
 5. Make a rule to prevent accidental pushes to the main branch
