@@ -4,7 +4,7 @@
 ### Do this one time:
 1. Open your terminal and navigate to your Actualize folder.
 2. Clone this repository in your Actualize folder.
-  git clone https://github.com/actualize-chi-2021-03/independent-practice.git
+  git clone https://github.com/actualize-onl-2021-05/independent_practice_deep_dives.git
 3. Navigate your terminal to this new folder.
   cd independent-practice/
 4. Make a branch using your unique GitHub username.
