@@ -34,6 +34,18 @@ Pull down the new exercises into your repository.
 
 # Exercises
 
+
+### Week 2
+
+|       | Deliberate Practice             | Deep Dives  |
+| ----- | ------------------------------------------ | -------------------------------------------------------- |
+| Day 1 | [Intro to APIs](w02/intro_to_apis)         | [Budget](w02/budget)                                     |
+| Day 2 | [Babys First Rails](w02/babys_first_rails) | [Book Report](w02/book_report)                           |
+| Day 3 | [Be CRUDdy](w02/be_cruddy)                 | [ETL](w02/etl)                                           |
+| Day 4 | [More CRUD](w02/more_crud)                 | [Anagrams](w02/anagrams)                                 |
+| Day 5 | [Params](w02/params)                       | [Hash as Index](w02/hash_as_index)                       |
+
+
 ### Week 1
 
 |       | Deliberate Practice       | Deep Dives (see [readme](DEEPDIVES_README.md)) |
