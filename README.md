@@ -35,6 +35,21 @@ Pull down the new exercises into your repository.
 # Exercises
 
 
+<<<<<<< HEAD
+=======
+### Week 3
+
+|       | Deliberate Practice (mandatory)                | Deep Dives (optional, see [readme](DEEPDIVES_README.md)) |
+| ----- | ---------------------------------------------- | -------------------------------------------------------- |
+| Day 1 | [Ruby Methods 2](w03/ruby_methods_2)           | [Temperatures](w03/temperatures)                         |
+| Day 2 | [Restful APIs](w03/restful_apis)               | [Phonebook](w03/phonebook)                               |
+| Day 3 | [Migrations](w03/migrations)                   | [Playlist](w03/playlist)                                 |
+| Day 4 | [Validations](w03/validations)                 | [Nobel Prize Winners](w03/nobel_prize_winners)           |
+| Day 5 | [SQL & ActiveRecord](w03/sql_and_activerecord) | [Randomizer Gem](w03/randomizer_gem)                     |
+
+
+
+>>>>>>> c3df38b784debf41c201a554f081f6bc39ff57b8
 ### Week 2
 
 |       | Deliberate Practice             | Deep Dives  |
