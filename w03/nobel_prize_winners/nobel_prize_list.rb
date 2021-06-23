@@ -8,7 +8,16 @@ class PrizeList
     @winners = []
 
     if filename
-      # read data from file - you need to fill this in!
+      # read data from file - you need to fill this in! 
+      
+      file = file.read('winners.json')
+      data_hash = JSON.parse(file)
+      @first_name = data_hash["firstname"]
+      @last_name = data_hash["surname"]
+      @motivation = data_hash["motivation"]
+      @share = data_hash["share"]
+
+
     else
       # read data from api (http://api.nobelprize.org/v1/prize.json)
       # you need to fill this in!
@@ -16,7 +25,7 @@ class PrizeList
   end
 
   def print_all
-    # you need to fill this in!
+    return "#{@first_name}, #{@last_name} motivation: #{@motivation} shared with: #{@share} people"
   end
 
   def print_category(category)
@@ -26,4 +35,5 @@ class PrizeList
   def print_year(year)
     # you need to fill this in!
   end
+  winners.json.print_all
 end
