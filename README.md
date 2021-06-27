@@ -64,11 +64,23 @@ Pull down the new exercises into your repository.
 
 ### Week 3
 
-|       | Deliberate Practice (mandatory)                | Deep Dives (optional, see [readme](DEEPDIVES_README.md)) |
+|       | Deliberate Practice                | Deep Dives |
 | ----- | ---------------------------------------------- | -------------------------------------------------------- |
 | Day 1 | [Ruby Methods 2](w03/ruby_methods_2)           | [Temperatures](w03/temperatures)                         |
 | Day 2 | [Restful APIs](w03/restful_apis)               | [Phonebook](w03/phonebook)                               |
 | Day 3 | [Migrations](w03/migrations)                   | [Playlist](w03/playlist)                                 |
 | Day 4 | [Validations](w03/validations)                 | [Nobel Prize Winners](w03/nobel_prize_winners)           |
 | Day 5 | [SQL & ActiveRecord](w03/sql_and_activerecord) | [Randomizer Gem](w03/randomizer_gem)                     |
+
+
+
+### Week 4
+
+|       | Deliberate Practice                | Deep Dives  |
+| ----- | ---------------------------------------------- | -------------------------------------------------------- |
+| Day 1 | [Has Many Association](w04/has_many)           | [Lights Out](w04/lights_out)                         |
+| Day 2 | [Authentication](w04/authentication)               | [Lights Out](w04/lights_out)                               |
+| Day 3 | [Ruby Methods 3](w04/ruby_methods_3)                   | [Tic-Tac-Toe](w04/tic_tac_toe)                                 |
+| Day 4 | [Authorization](w04/authorization)                 | [Tic-Tac-Toe](w04/tic_tac_toe)           |
+| Day 5 | [Has Many Through](w04/has_many_through) | [Tic-Tac-Toe](w04/tic_tac_toe)                     |
 
