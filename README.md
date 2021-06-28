@@ -36,20 +36,30 @@ Pull down the new exercises into your repository.
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ### Week 3
-
-|       | Deliberate Practice (mandatory)                | Deep Dives (optional, see [readme](DEEPDIVES_README.md)) |
-| ----- | ---------------------------------------------- | -------------------------------------------------------- |
-| Day 1 | [Ruby Methods 2](w03/ruby_methods_2)           | [Temperatures](w03/temperatures)                         |
-| Day 2 | [Restful APIs](w03/restful_apis)               | [Phonebook](w03/phonebook)                               |
-| Day 3 | [Migrations](w03/migrations)                   | [Playlist](w03/playlist)                                 |
-| Day 4 | [Validations](w03/validations)                 | [Nobel Prize Winners](w03/nobel_prize_winners)           |
-| Day 5 | [SQL & ActiveRecord](w03/sql_and_activerecord) | [Randomizer Gem](w03/randomizer_gem)                     |
+=======
+>>>>>>> b6fea397c782a3b6c636ce78400e95e1a3c22546
 
 
 
+
+<<<<<<< HEAD
 >>>>>>> c3df38b784debf41c201a554f081f6bc39ff57b8
+=======
+### Week 1
+
+|       | Deliberate Practice       | Deep Dives (see [readme](DEEPDIVES_README.md)) |
+| ----- | ------------------------------------ | -------------------------------------------------------- |
+| Day 1 | [Terminal](w01/terminal)             |                                                          |
+| Day 2 | [Git and GitHub](w01/git_and_github) | [Grades](w01/grades)                                     |
+| Day 3 | [Ruby Core](w01/ruby_core)           | [Bob](w01/bob)                                           |
+| Day 4 | [Ruby OOP](w01/ruby_oop)             | [Isbn](w01/isbn)                                         |
+| Day 5 | [Ruby Methods](w01/ruby_methods)     | [Todo](w01/todo)                                         |
+
+
+>>>>>>> b6fea397c782a3b6c636ce78400e95e1a3c22546
 ### Week 2
 
 |       | Deliberate Practice             | Deep Dives  |
@@ -61,12 +71,26 @@ Pull down the new exercises into your repository.
 | Day 5 | [Params](w02/params)                       | [Hash as Index](w02/hash_as_index)                       |
 
 
-### Week 1
 
-|       | Deliberate Practice       | Deep Dives (see [readme](DEEPDIVES_README.md)) |
-| ----- | ------------------------------------ | -------------------------------------------------------- |
-| Day 1 | [Terminal](w01/terminal)             |                                                          |
-| Day 2 | [Git and GitHub](w01/git_and_github) | [Grades](w01/grades)                                     |
-| Day 3 | [Ruby Core](w01/ruby_core)           | [Bob](w01/bob)                                           |
-| Day 4 | [Ruby OOP](w01/ruby_oop)             | [Isbn](w01/isbn)                                         |
-| Day 5 | [Ruby Methods](w01/ruby_methods)     | [Todo](w01/todo)                                         |
+### Week 3
+
+|       | Deliberate Practice                | Deep Dives |
+| ----- | ---------------------------------------------- | -------------------------------------------------------- |
+| Day 1 | [Ruby Methods 2](w03/ruby_methods_2)           | [Temperatures](w03/temperatures)                         |
+| Day 2 | [Restful APIs](w03/restful_apis)               | [Phonebook](w03/phonebook)                               |
+| Day 3 | [Migrations](w03/migrations)                   | [Playlist](w03/playlist)                                 |
+| Day 4 | [Validations](w03/validations)                 | [Nobel Prize Winners](w03/nobel_prize_winners)           |
+| Day 5 | [SQL & ActiveRecord](w03/sql_and_activerecord) | [Randomizer Gem](w03/randomizer_gem)                     |
+
+
+
+### Week 4
+
+|       | Deliberate Practice                | Deep Dives  |
+| ----- | ---------------------------------------------- | -------------------------------------------------------- |
+| Day 1 | [Has Many Association](w04/has_many)           | [Lights Out](w04/lights_out)                         |
+| Day 2 | [Authentication](w04/authentication)               | [Lights Out](w04/lights_out)                               |
+| Day 3 | [Ruby Methods 3](w04/ruby_methods_3)                   | [Tic-Tac-Toe](w04/tic_tac_toe)                                 |
+| Day 4 | [Authorization](w04/authorization)                 | [Tic-Tac-Toe](w04/tic_tac_toe)           |
+| Day 5 | [Has Many Through](w04/has_many_through) | [Tic-Tac-Toe](w04/tic_tac_toe)                     |
+

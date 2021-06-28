@@ -5,19 +5,22 @@ class Phonebook
   attr_reader :entries
 
   def initialize(filename)
-    # Your job is to fill this in.
+    @entries = Entry.new(filename)
   end
 
   def full_name_lookup(last_name, first_name)
-    # Your job is to fill this in.
+    if first_name == @entries.first_name && last_name == @entries.last_name
+      @first_name = first_name
+      @last_name = last_name
+    end
   end
 
   def last_name_lookup(last_name)
-    # Your job is to fill this in.
+    if last_name == @entries.last_name
+    @last_name = last_name
   end
 
   def print
-    # Your job is to fill this in.
+    return @entries.print
   end
-
 end
